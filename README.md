@@ -19,3 +19,16 @@ IBM BOB is used for ideation, prompt design, test-case generation and responsibl
 ## Portfolio note
 
 This is an intentionally transparent MVP. It uses local matching data so it can run without exposing keys in a frontend app. A production version could add a verified backend database, live partner updates, maps, multilingual support and a secure AI API.
+## Project links
+
+- Live demo: https://shraddha-123p.github.io/rewear-ai/
+- Repository: https://github.com/shraddha-123P/rewear-ai
+- Demo evidence: `ReWear_AI_Prototype_Demo_Updated.pdf`
+
+## Try the demo
+
+1. Choose an item category and condition.
+2. Enter a city such as Pune or Bengaluru.
+3. Select pickup, drop-off or either option.
+4. Review the suggested route, partner website and preparation steps.
+5. Verify current acceptance and pickup details with the organisation before handing over items.
